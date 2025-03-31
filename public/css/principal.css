@@ -1,0 +1,22 @@
+body {
+background-color: #333;
+    padding-top: 5%;
+}
+
+.ImgLogo {
+    height: 5%;
+    width: 5%;
+    border-radius: 20%;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #001D4A;
+    
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
